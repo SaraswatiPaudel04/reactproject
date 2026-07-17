@@ -1,8 +1,8 @@
 
-// import './App.css'
-// // import Home from './Pages/Home'
-// import About from './Pages/About'
-// import { Home } from './Pages/Home'
+import './App.css'
+// import Home from './Pages/Home'
+import About from './Pages/About'
+import { Home } from './Pages/Home'
 // import Navbar from './Shared/Navbar'
 // import Footer from './Shared/Footer'
 
